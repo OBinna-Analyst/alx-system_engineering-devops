@@ -1,1 +1,1 @@
-this script is on how to say "Hello World" on shell 
+this script is on how to say confused smiley face
